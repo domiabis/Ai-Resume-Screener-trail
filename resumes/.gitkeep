@@ -1,0 +1,9 @@
+# Ignore uploaded resumes
+resumes/*.pdf
+
+# Ignore usage tracking (optional)
+usage_count.txt
+
+# Python junk
+__pycache__/
+.ipynb_checkpoints/
