@@ -1,0 +1,14 @@
+Job Title: Data Analyst
+
+Responsibilities:
+- Analyze and interpret complex data sets using SQL and Python (Pandas).
+- Create interactive dashboards and visualizations in Power BI.
+- Clean, transform, and validate raw data to ensure accuracy.
+- Generate actionable business insights through data-driven analysis.
+- Collaborate with cross-functional teams to improve decision-making.
+
+Requirements:
+- Strong knowledge of SQL and data manipulation.
+- Experience with Power BI or Tableau.
+- Familiarity with Python (Pandas, NumPy).
+- Analytical mindset and attention to detail.
