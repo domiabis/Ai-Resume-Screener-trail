@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+pandas
+nltk
+scikit-learn
+groq
